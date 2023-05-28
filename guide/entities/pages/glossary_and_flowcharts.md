@@ -14,7 +14,7 @@ Uma lista de todas as entidades Discord.Net suas propriedades e para quais outra
 
 ## Canais 
 ![IChannelChart]
-<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/diagrams/Channels.svg">  
+<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/charts/Channels.svg">  
 
 ### Canais de mensagem
 * Canal de **Texto** ([ITextChannel]) Representa um canal de texto de uma Guilda.
@@ -51,7 +51,7 @@ Uma lista de todas as entidades Discord.Net suas propriedades e para quais outra
 
 ## Mensagens
 ![IMessageChart]  
-<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/diagrams/Messages.svg">  
+<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/charts/Messages.svg">  
 
 * A **Rest Followup Message** ([RestFollowupMessage]) É uma mensagem retorna pelo acompanhamento da interação.
 * A **Rest Interaction Message** ([RestInteractionMessage]) É uma mensagem retornada pela resposta original da interação.
@@ -69,7 +69,7 @@ Uma lista de todas as entidades Discord.Net suas propriedades e para quais outra
 
 ## Usuários  
 ![IUserChart]  
-<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/diagrams/Users.svg">
+<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/charts/Users.svg">
 
 * O **Guild User** ([IGuildUser]) É um usuário disponivél dentro de uma Guilda.
 * O **Group User** ([IGroupUser]) É um usuário disponivél dentro de uma Grupo
@@ -84,7 +84,7 @@ Uma lista de todas as entidades Discord.Net suas propriedades e para quais outra
 
 ## Interacões
 ![IInteractionChart]  
-<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/diagrams/Interactions.svg">
+<img style="background-color: #FFFFFF;" src="https://raw.githubusercontent.com/Edaurodo/d-net-doc-translation-pt-BR/main/guide/entities/charts/Interactions.svg">
 
 * O **Slash command** ([ISlashCommandInteraction]) É um commando de aplicativo ("/") que é executado na caixa de texto, com parametros.
 * A **Message Command** ([IMessageCommandInteraction]) É um commando de aplicativo direcionado a uma mensagem.
